@@ -1,5 +1,5 @@
 # Arvores_Binarias
-#Implementação de operações em árvores binárias
+# Implementação de operações em árvores binárias
 
 Você deve, primeiramente, implementar as seguintes operações sobre árvores:
 
